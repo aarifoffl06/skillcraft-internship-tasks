@@ -8,9 +8,6 @@ Interactive navigation menu with scroll and hover effects.
 ## Task 02 – Stopwatch Web Application
 Stopwatch with start, pause, reset, and lap functionality.
 
-## Task 02 (Alternative) – Calculator Web App
-Basic calculator with arithmetic operations and keyboard support.
-
 ## Task 03 – Quiz Game Application
 Multiple-choice quiz with score calculation.
 
